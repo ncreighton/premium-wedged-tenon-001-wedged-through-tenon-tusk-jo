@@ -1,0 +1,2 @@
+# premium-wedged-tenon-001-wedged-through-tenon-tusk-jo
+Tired of losing your wedged through tenon and tusk joint specs mid-project? Stop re-measuring and start building with a dedicated digital craft lab that keeps every dimension, cutlist, and note in one place.  This Notion template transforms your workflow by centralizing all wedged tenon design data, from mortise depth to tusk taper angles. It elimi
